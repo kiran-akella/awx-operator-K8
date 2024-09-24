@@ -1,0 +1,10 @@
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  creationTimestamp: "2024-09-15T16:39:58Z"
+  name: awx-postgres-volume
+  resourceVersion: "30296"
+  uid: 023d746d-a9e0-41a8-9500-fe69cfb0444d
+provisioner: kubernetes.io/no-provisioner
+reclaimPolicy: Retain
+volumeBindingMode: WaitForFirstConsumer
