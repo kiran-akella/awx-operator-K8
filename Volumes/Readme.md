@@ -22,4 +22,10 @@ sudo mkdir -p /data/postgres-15/data
 sudo chmod 700 /data/postgres-15/data
 
 
-Now copy the above attached pv, pvc and storage class files into your host. 
+**Now copy the above attached pv, pvc and storage class files into your host. **
+
+kubectl create -f storage_class.yml
+
+kubectl create -f pv.yaml
+
+kubectl create -f pvc.yaml
