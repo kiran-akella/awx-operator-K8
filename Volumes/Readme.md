@@ -12,3 +12,6 @@ A **PersistentVolume** (PV) is a piece of storage in the cluster that has been p
 While **PersistentVolumeClaims** allow a user to consume abstract storage resources, it is common that users need PersistentVolumes with varying properties.
 
 PVs must be requested through persistent volume claims (PVCs), which are requests for storage. A PVC is essentially a request to mount a PV meeting certain requirements on a pod. PVCs do not specify a specific PV—instead.
+
+# Setup
+
