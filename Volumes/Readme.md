@@ -1,4 +1,4 @@
-Volumes directory is created to broadcast the importance of volumes in awx-operator application in kubernetes.
+# This directory is created to trobleshoot issues caused by volumes in awx-operator application deployment in kubernetes.
 
 # Introduction
 
