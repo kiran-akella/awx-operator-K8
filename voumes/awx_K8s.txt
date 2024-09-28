@@ -1,7 +1,0 @@
-https://www.linuxtechi.com/install-ansible-awx-on-kubernetes-cluster/
-
-https://stackoverflow.com/questions/59337139/crashloopbackoff-postgres-gcp
-
-sudo mkdir -p /data/postgres-15/data
-sudo chmod 700 /data/postgres-15/data
-sudo chown 26:0 /data/postgres-15/data
