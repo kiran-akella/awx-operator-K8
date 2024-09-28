@@ -17,13 +17,13 @@ PVs must be requested through persistent volume claims (PVCs), which are request
 
 Create a **postgres-15** directory in **data** folder with below commands on your Kubernetes master node and copy the above attached pv, pvc and storage class files into your machine. once directories are created, execute the kubectl create -f filename commands provided below to create the volume.
 
-'''
+```
 
 sudo mkdir -p /data/postgres-15/data
 
 sudo chmod 700 /data/postgres-15/data
 
-'''
+```
 
 kubectl create -f storage_class.yml
 
