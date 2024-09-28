@@ -18,4 +18,5 @@ PVs must be requested through persistent volume claims (PVCs), which are request
 Create a **postgres-15** directory in **data** folder with below commands on your Kubernetes master node
 
 sudo mkdir -p /data/postgres-15/data
+
 sudo chmod 700 /data/postgres-15/data
