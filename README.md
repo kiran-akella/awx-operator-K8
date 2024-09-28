@@ -1,4 +1,4 @@
-I have included the volumes to be created along with the steps in this project for a success setup. Have look into the volumes directory created in this repository.
+I have included the volumes to be created along with the steps in this project for a successful setup. Have look into the volumes directory created in this repository.
 
 **Link :**
 
