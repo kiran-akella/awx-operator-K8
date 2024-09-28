@@ -37,4 +37,4 @@ kubectl create -f pvc.yaml
 
 Now you can continue your installation as per the documentation. 
 
-https://github.com/kiran-akella/awx-operator-K8/blob/12edc2e2b7c61a34b88ca807c15a3350ddc1fdf3/docs/installation/basic-install.md
+[**Basic Installation**](https://github.com/kiran-akella/awx-operator-K8/blob/12edc2e2b7c61a34b88ca807c15a3350ddc1fdf3/docs/installation/basic-install.md)
