@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: postgres-15-ansible-awx-postgres-15-0
+  namespace: awx
+spec:
+  storageClassName: awx-postgres-volume
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 15Gi
