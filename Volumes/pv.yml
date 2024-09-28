@@ -18,4 +18,3 @@ spec:
   persistentVolumeReclaimPolicy: Retain
   storageClassName: awx-postgres-volume
   volumeMode: Filesystem
- 
