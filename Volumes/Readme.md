@@ -1,9 +1,9 @@
-# This directory is created to trobleshoot issues caused by volumes in awx-operator application deployment in kubernetes.
+# This directory is created to help beginners to understand the importance of volume in awx-operator application deployment in kubernetes.
 
 # Introduction
 
 Managing storage is a distinct problem from managing compute instances. The PersistentVolume subsystem provides an API for users and administrators that abstracts details of how storage is provided from how it is consumed.
-To do this,kubernetes introduce two new API resources: PersistentVolume and PersistentVolumeClaim.
+To do this,kubernetes introduced two new API resources: PersistentVolume and PersistentVolumeClaim.
 
 A **Kubernetes StorageClass** is a Kubernetes storage mechanism that lets you dynamically provision persistent volumes (PV) in a Kubernetes cluster
 
