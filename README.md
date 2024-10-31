@@ -1,6 +1,6 @@
 # AWX Operator
 
-I have included the **Volumes** to be created along with the steps in this project for a successful setup. Have look into the volumes directory created in this repository.
+I have included the **Volumes** to be created along with the steps in this project for a successful setup. Have a look into the volumes directory created in this repository.
 
 **Link :**
 [Volume directory ](https://github.com/kiran-akella/awx-operator-K8/tree/929566c49fe422a9046b9441d0f9b2feb8675ce1/Volumes)
